@@ -9,3 +9,7 @@
 - Resources
   - [Github Official Website](https://git-scm.com/)
   - [Git Cheat Sheet](https://ohshitgit.com/)
+## Maven
+
+Youtube vids & Channels
+  -[Maven with eclipse](https://www.youtube.com/watch?v=sNEcpw8LPpo&ab_channel=ProgrammingKnowledge2)
