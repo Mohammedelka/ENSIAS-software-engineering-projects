@@ -2,3 +2,10 @@
 
 # projects
 :star:This an open source repository that contains some useful documents about the technologies of software engineering:computer:.
+## Git/Github
+
+- Youtube Vids & Channels
+  - [Git/Github](https://www.youtube.com/watch?v=3fUbBnN_H2c) : This Video is my special recommendation to learn git
+- Resources
+  - [Github Official Website](https://git-scm.com/)
+  - [Git Cheat Sheet](https://ohshitgit.com/)
